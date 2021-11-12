@@ -1,0 +1,15 @@
+.header {
+  min-width: 300px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.image {
+  width: 100%;
+}
+
+.href {
+  font-size: 1.3rem;
+  color: #1824cf;
+}
